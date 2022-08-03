@@ -1,0 +1,18 @@
+.productDetailPage {
+  display: flex;
+  flex-direction: column;
+}
+
+.detailFirstRow {
+    display: flex;
+    border-bottom: solid #928f8f 2px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+.detailSummaryBox {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-left: 14px;
+}

@@ -1,0 +1,3 @@
+export const API_KEY =
+  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Inkuc2VsaW1kb2dhbkBnbWFpbC5jb20iLCJnaXRodWIiOiJodHRwczovL2dpdGh1Yi5jb20veXNlbGltIiwiaWF0IjoxNjU5Mzc2NDU1LCJleHAiOjE2NTk4MDg0NTV9.phuH9K3ShhBCDD1uCsUCNqwihRcoO26IXM5rDEbeHpY";
+//TODO: This should be on environment variables or other secure place. 
